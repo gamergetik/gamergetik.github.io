@@ -1,1 +1,1 @@
-# mightytusk.github.io
+# Source code for Gamergetik Website.
