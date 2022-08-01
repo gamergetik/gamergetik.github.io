@@ -36,6 +36,7 @@
 @import url("fonts.css");
 @import url("font-awesome/css/font-awesome.min.css");
 @import url("nova/nova.css");
+@import
 
 
 /* ===================================================================
@@ -1380,10 +1381,11 @@ header .logo a {
 }
 
 #intro h1 {
-	font-family: "domine-bold", serif;
+	font-family: "berlin-sans" ,serif;
 	font-size: 5.3rem;
+	letter-spacing: 5px;
 	line-height: 1.267;
-	color: #ed254d;
+	color: #FFFFFF;
 	padding: 0 12%;
 	text-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
 }

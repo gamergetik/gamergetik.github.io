@@ -105,3 +105,14 @@
     font-weight: normal;
     font-style: normal;
 }
+
+
+/* Berlin Sans*/
+
+@font-face {
+    font-family: 'berlin-sans';
+    src: url('../fonts/berlin-sans/BRLNSR.woff') format('woff'),
+         url('../fonts/domine/domine-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
